@@ -1,0 +1,3 @@
+[submodule "BOSL2"]
+	path = 3d_print/BOSL2
+	url = https://github.com/BelfrySCAD/BOSL2.git
